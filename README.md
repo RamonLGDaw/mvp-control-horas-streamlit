@@ -2,6 +2,8 @@
 
 Producto Mínimo Viable (MVP) desarrollado con Python y Streamlit para la gestión de tareas, registro de tiempo en vivo y cálculo de compensaciones en entornos informales.
 
+> 📖 **Case Study:** Puedes leer el desglose técnico completo, las decisiones de arquitectura y el proceso de desarrollo en mi web: [Leer en lagidev.com](https://lagidev.com/proyectos/control-horas-mvp-1/)
+
 ## Características Principal
 
 * **Registro en tiempo real:** Contador dinámico por segundos sin refresco de página utilizando `@st.fragment`.
